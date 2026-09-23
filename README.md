@@ -17,4 +17,4 @@ This repository contains my personal assignment portfolio developed using HTML.
 This portfolio was created as part of my web development assignment to demonstrate my understanding and practical use of HTML.
 
 ## Author
-Rikesh Chand
+Ritesh Chand
